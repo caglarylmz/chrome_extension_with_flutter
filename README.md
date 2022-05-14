@@ -1,19 +1,9 @@
 # my_extension_for_chrome
 
-A new Flutter project.
+## Please reading for this
 
-## Getting Started
+<https://medium.com/@caglar.ylmz/chrome-extension-with-flutter-c090c981b0f8>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+### Usee this command for build
 
 flutter build web --web-renderer html --csp
